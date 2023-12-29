@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap');
+
+:root{
+    --main-color: hsl(47, 88%, 63%);
+}
+
+body{
+    background-color: var(--main-color);
+    font-family: 'Figtree', sans-serif;
+}
+
+.card {
+    height: 430px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 100px auto;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #FFF;
+    border-right: 10px solid #000;
+    border-bottom: 10px solid #000;
+}
+
+.card__image{
+    /* background-color: ; */
+}
+
+.card__image > img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    border-radius: 10px;
+    /* margin: 5px;     */
+}
+
+.card__buttonAndDate{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    /* border: 1px solid black; */
+}
+
+.card__buttonAndDate > button {
+    border-color: var(--main-color);
+    border-radius: 5px;
+    outline: transparent;
+    width: 30%;
+    padding: 5px;
+    background-color: var(--main-color);
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.card__titleAndParragraph{
+    margin-top: 20px;
+}
+
+.card__titleAndParragraph > h2 {
+    margin-top: 0;
+}
+
+.card__titleAndParragraph > p {
+    font-weight: lighter;
+    color: hsl(0, 0%, 50%);
+    margin: 0;
+}
+
+.card__imageAndName{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.card__imageAndName > img {
+    width: 10%;
+    height: 20%;
+    display: inline-block;
+}
+
+.card__imageAndName > small {
+    font-weight: 700;
+    line-height: 0.1px;
+    margin-left: 10px;
+    /* letter-spacing: 0.1px; */
+}
+
+/*RESPONSIVE DESIGN: 375 PX IS THE SIZE REQUIRED IN THIS CHALLENGE*/
+@media (max-width: 375px) {
+    .card{
+        margin-top: 25px;
+    }
+}
