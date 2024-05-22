@@ -5,5 +5,6 @@ elements, using Figma.
 
 ✔Web Accessibility
 ✔Good practices in the Frontend
+✔Nice user experience
 
 Deployed project: https://juanjefry23.github.io/blog-preview-card-main/
