@@ -8,3 +8,5 @@ elements, using Figma, good practices.
 ✔Nice user experience
 
 Deployed project: https://juanjefry23.github.io/blog-preview-card-main/
+
+https://github.com/JuanJefry23/blog-preview-card-main/assets/57572366/257955a4-e02b-43de-b5d4-83dbb36ee667
