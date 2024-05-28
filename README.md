@@ -9,4 +9,4 @@ elements, using Figma, good practices.
 
 Deployed project: https://juanjefry23.github.io/blog-preview-card-main/
 
-https://github.com/JuanJefry23/blog-preview-card-main/assets/57572366/6f54d0f7-1a89-4f77-b91e-33d01a643565
+https://github.com/JuanJefry23/blog-preview-card-main/assets/57572366/eb262748-3800-4fd1-b2f8-9311a304a093
