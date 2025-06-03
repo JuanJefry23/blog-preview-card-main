@@ -10,5 +10,6 @@ elements, using Figma, good practices, web accessibility.
 
 ✔Nice user experience
 
+
 Deployed project: https://juanjefry23.github.io/blog-preview-card-main/
 
