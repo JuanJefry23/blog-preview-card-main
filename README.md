@@ -8,6 +8,7 @@ elements, using Figma, good practices, web accessibility.
 
 ✔Good practices in the Frontend
 
+
 ✔Nice user experience
 
 
