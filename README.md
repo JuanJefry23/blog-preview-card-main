@@ -6,6 +6,7 @@ elements, using Figma, good practices, web accessibility.
 
 ✔Web Accessibility
 
+
 ✔Good practices in the Frontend
 
 
